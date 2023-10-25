@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #f3d8eec4;
+
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Roboto Slab;
+}
+.nav-item{
+    margin: 0 10px 0 10px;
+    font-weight: 800;
+}
+.collapse{
+justify-content: flex-end;
+}
+.banner{
+    height: 400px;
+    background-image: linear-gradient(178deg, #f3d8eec4, #dbeaef);
+}
+.banner1{
+height: 400px;
+
+}
+@media screen and (max-width:990px)
+{
+    .banner
+    {
+        height: 500px;}
+}
+.accordion-button {
+    font-weight: 500;
+}
